@@ -1,4 +1,4 @@
-table 50750 "Barcode Table"
+table 70750 "Barcode Table"
 {
     DataClassification = ToBeClassified;
 

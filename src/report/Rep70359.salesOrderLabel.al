@@ -1,4 +1,4 @@
-report 50359 salesOrderLabel
+report 70359 salesOrderLabel
 {
     UsageCategory = ReportsAndAnalysis;
     ApplicationArea = All;
